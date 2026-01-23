@@ -1,4 +1,4 @@
-# olimpiak
+# olimpiak weblap
 ## Github proba
-## git hub proba letoltes
-## git hub proba feltoltes
+## készítő: Mohácsi Diána
+## 9a csop 1
