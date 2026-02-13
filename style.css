@@ -1,1 +1,13 @@
-p{color: blue;}
+p{
+    color: rgb(24, 37, 67);
+}
+body{
+    background-image: url(web_olimpia/olimpiahatter.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+#NOB
